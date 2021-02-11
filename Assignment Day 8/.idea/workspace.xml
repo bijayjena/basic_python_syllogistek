@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa6a25b4-999e-468c-bc17-3ff54cf1f599" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1co8EzTuZVKmh4D1Qo4zhWGHfLv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Application Data" />
+  </component>
+  <component name="RunManager" selected="Python.A1 Chinese Problem">
+    <configuration name="A1 Chinese Problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignment Day 8" />
+      <option name="INTERPRETER_OPTIONS" value="C:\Python27\python.exe" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A1 Chinese Problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="C:\Python27" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment Day 8" />
+      <option name="INTERPRETER_OPTIONS" value="C:\Users\Microsoft\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Application Data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\Python27" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assignment Day 8" />
+      <option name="INTERPRETER_OPTIONS" value="C:\Program Files\JetBrains\PyCharm Community Edition 2019.3\bin" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\Python27" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Assignment Day 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Assignment Day 8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.A1 Chinese Problem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa6a25b4-999e-468c-bc17-3ff54cf1f599" name="Default Changelist" comment="" />
+      <created>1591183477970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591183477970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="149" key="#A1_Chinese_Problem" timestamp="1592987270284">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="485" y="149" key="#A1_Chinese_Problem/0.0.1504.972@0.0.1504.972" timestamp="1592987270284" />
+    <state x="345" y="144" key="#Inspections" timestamp="1591183560575">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="345" y="144" key="#Inspections/0.0.1504.972@0.0.1504.972" timestamp="1591183560575" />
+    <state x="485" y="149" key="#Python" timestamp="1591184262842">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="485" y="149" key="#Python/0.0.1504.972@0.0.1504.972" timestamp="1591184262842" />
+    <state x="208" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591184247006">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="208" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.972@0.0.1504.972" timestamp="1591184247006" />
+    <state x="488" y="248" key="EnvironmentVariablesDialog" timestamp="1591183821498">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="488" y="248" key="EnvironmentVariablesDialog/0.0.1504.972@0.0.1504.972" timestamp="1591183821498" />
+    <state x="318" y="257" key="FileChooserDialogImpl" timestamp="1592983689862">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="318" y="257" key="FileChooserDialogImpl/0.0.1504.972@0.0.1504.972" timestamp="1592983689862" />
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1596452622226">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="449" y="310" key="com.intellij.ide.util.TipDialog/0.0.1504.972@0.0.1504.972" timestamp="1596452622226" />
+  </component>
+</project>

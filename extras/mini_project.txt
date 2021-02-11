@@ -1,0 +1,47 @@
+Use case: Archival
+
+You will need to use few python libraries including but not limited to:
+	string
+	randomn
+	os
+	shutil
+	
+to import some functions from the libraries use commands like
+import random
+or
+from random import randint
+
+once libraries are imported you can explore the functions available in the library using dir and help command.
+ex - dir(random) => will give you list of all the functions available in random library.
+	 help(random.randint) => shows one line description of the randint function in random library.
+	 
+In some location in your system use some function from the above libraries to create a folder named "all_files" 
+
+ex - os.mkdir("all_files")
+
+Now programatically create some random files in all_files folder:
+ex - for file in ["jpg","png","txt","pdf"]:
+		=> create 25 files of each file extension
+		=> to create the file use open function and random library to generate some combination of file name
+		ex of file name - AMP57BPC.txt 
+		file name should be generated trough program by forming some random combination of string and number and adding the extension at the end of the file name.
+		
+Once files are generated:
+	write a function that will create unique folders with extension name:
+	ex - for above example it should generate 4 folders jpg png txt pdf.
+	Handle through exceptions if folder already exists.
+	
+	write another function that will list all the files in all_files folder and pick each file and cut paste in respective folder.
+
+Note - 	
+	Follow programming and design standards with the use of right functions as needed.
+	Proper use of data structures
+	Exception handling
+	Above are basic functionalities for your program.
+	Identifiy more realtime issues and pain areas on similar lines and try to include in your code.
+	
+	
+	
+	
+	
+				
